@@ -41,7 +41,8 @@ jobs:
           omnipod_cage \
           dexcom_sage \
           future_carbs_4h \
-          customtypeone_looppatches
+          customtypeone_looppatches \
+          2002
 
           # the final customization listed above CANNOT have a continuation character "\"
           # more customizations can be pasted after this line
